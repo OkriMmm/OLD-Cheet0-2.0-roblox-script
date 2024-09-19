@@ -1,2 +1,5 @@
-# OLD-Cheet0-2.0-roblox-script
-a v2 for what i've made in the past
+#⚠DISCLAIMER⚠
+THIS WAS MADE A LONG TIME AGO BEFORE BYFRON
+USE THIS AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANY BANS.
+
+A v2.0 for what I've made in the past, still a pretty simple script
